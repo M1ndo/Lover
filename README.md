@@ -1,14 +1,14 @@
 
                                                         .:: ybenel ::.
                                          .::Hash Generator & Cracker Online Offline ::.
-                                                       .:: @_ybenel ::.
+                                                 .:: @_ybenel ::.
  
 
 #Install Note
 
 Clone the repository:
 
- git clone https://github.com/m1ndo/lover.git
+ git clone https://github.com/ybenel/lover.git
 
 #Then go inside:
 
@@ -24,14 +24,14 @@ python3 lover.py -v HASH -f Wordlist / For --> Brute Force Attack (md5, sha1, sh
 python3 lover.py -n HASH / For -->  Online Search (md5, sha1, sha224, sha256, sha384, sha512))
 
 
-<img src="https://github.com/m1ndo/lover/blob/master/ss/how.png" >
+<img src="https://github.com/ybenel/lover/blob/master/ss/how.png" >
 
 
 #Generate Hash
 
 python3 lover.py -k loveme
 
-<img src="https://github.com/m1ndo/lover/blob/master/ss/gen.png" >
+<img src="https://github.com/ybenel/lover/blob/master/ss/gen.png" >
 
 
 #Brute Force Attack
@@ -41,4 +41,4 @@ python3 lover.py -k loveme
 
 #Online Search
 
-<img src="https://github.com/m1ndo/lover/blob/master/ss/on.png" >
+<img src="https://github.com/ybenel/lover/blob/master/ss/on.png" >

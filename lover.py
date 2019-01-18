@@ -8,7 +8,7 @@ from datetime import *
 
 __program__ = 'lover'
 __version__ = 'v.01'
-__author__ = 'Ybenel'
+__author__ = 'ybenel'
 __github__ = 'https://github.com/ybenel/lover'
 
 def banner():
