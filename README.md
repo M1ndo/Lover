@@ -8,7 +8,7 @@
 
 Clone the repository:
 
- git clone https://github.com/ybenel/lover.git
+ git clone https://github.com/m1ndo/lover.git
 
 #Then go inside:
 
@@ -24,21 +24,21 @@ python3 lover.py -v HASH -f Wordlist / For --> Brute Force Attack (md5, sha1, sh
 python3 lover.py -n HASH / For -->  Online Search (md5, sha1, sha224, sha256, sha384, sha512))
 
 
-<img src="https://github.com/ybenel/lover/blob/master/ss/how.png" >
+<img src="https://github.com/m1ndo/Lover/blob/master/Pp/Screenshot%20from%202019-01-18%2009-11-06.png" >
 
 
 #Generate Hash
 
-python3 lover.py -k loveme
+python3 lover.py -k lover
 
-<img src="https://github.com/ybenel/lover/blob/master/ss/gen.png" >
+<img src="https://github.com/m1ndo/Lover/blob/master/Pp/Screenshot%20from%202019-01-18%2009-11-36.png" >
 
 
 #Brute Force Attack
 
-<img src="https://github.com/m1ndo/lover/blob/master/ss/off.png" >
+<img src="https://github.com/m1ndo/Lover/blob/master/Pp/Screenshot%20from%202019-01-18%2009-12-32.png" >
 
 
 #Online Search
 
-<img src="https://github.com/ybenel/lover/blob/master/ss/on.png" >
+<img src="https://github.com/m1ndo/Lover/blob/master/Pp/Screenshot%20from%202019-01-18%2009-13-03.png" >
